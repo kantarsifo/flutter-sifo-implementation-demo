@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sifointernet_ios_sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kantarsifo/SifoInternet_IOS_SDK.git",
+      "state" : {
+        "revision" : "b7ba0aca46d01d042ac25960f005b0c9063773dc",
+        "version" : "6.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
